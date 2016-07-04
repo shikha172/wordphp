@@ -1,0 +1,637 @@
+https://dot601.wordpress.com
+////////////////////////////////////////////////////////////////////////////////////////////
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>shikha</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://dot601.wordpress.com/xmlrpc.php">
+
+<link rel="alternate" type="application/rss+xml" title="shikha &raquo; Feed" href="https://dot601.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="shikha &raquo; Comments Feed" href="https://dot601.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link rel='stylesheet' id='all-css-0' href='https://s2.wp.com/_static/??-eJyFUO1OxCAQfCE5rPEa/xifBeie3SsLhAXrvb1Lq038CP4hO8PMzmT1mpSLoUAomqpKvr5iYL0mF0kxoYfbD3RyzHf6bxtXyy5jKhgFXaL3ce3p5/gGWdlqrQdxl5uHQ47B+ToJLYSeDM8oC/hEGH5LrqyL/C82vh9DL9fj0lxQknGL2lBPbiZJVdbkz0sceDehDrFs7Y6ht83FDMJTMqUpCCY04IFE1rNRGr9cbZyleTdmr2ptysCs5CWspMosQf/Uo1Zlv8p2/G9Ms77Q8/A4DvdPw8N4vn4ALn3ZbQ==' type='text/css' media='all' />
+<link rel='stylesheet' id='edin-pt-sans-css'  href='https://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='edin-pt-serif-css'  href='https://fonts.googleapis.com/css?family=PT+Serif%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='edin-pt-mono-css'  href='https://fonts.googleapis.com/css?family=PT+Mono&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-6' href='https://s1.wp.com/_static/??-eJyFj9EOgjAMRX/IWlRieDF+C4wyR7Z12YrEv3fKC2KcL8297blpi3MAxV7IC8qNHCUMU4fUG49D7r9VBvYqpR2uYDdBsJM2PqEmT9HkwQ/5ld0uSvKw9JfKdywkzEGxK11Ejkez1BLmWfKCtnfGQ9dGuB/LbzJYVq0Y9h8GBtuaWIpG6izrLDVmamVLIeEEkQJHgYGj2/pX9Oouh/pcV1VTNafxCUcMq+I=' type='text/css' media='all' />
+<style id='edin-style-inline-css' type='text/css'>
+.hero.with-featured-image { background-image: url(https://dot601.files.wordpress.com/2016/07/homepage11.jpg?w=1230&#038;h=820&#038;crop=1); }
+</style>
+<link rel='stylesheet' id='print-css-7' href='https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-8' href='https://s0.wp.com/_static/??-eJx9TssOwjAM+yFCNCjjhPiWrCttUNtUTTd+n+0ACCF28kO2ZXwUsJKbyw3TBCVOnrMijYkzDFQxkTZXFwYyu1p5dPrx9lZ1h38mbGPJ68SbbcWLaINbJK6ogSpn/8KtloplihDFy7f4KbXg0nI9GPRRBopr4JounemPXX8+mNP9CSruY04=' type='text/css' media='all' />
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJx9kFEKwjAMQC9kV9Q59UM8y1azkdmmtUkdenr7MRFHFQIh5JHkRU9BIRmbLsB6zHFLEB9zqkZe6X+AcjjEVqBySG/YeBIg0S6pYNOAxJpTxyZiEPS56r21flrieXTwLA6Y2wEKXec7tKASQ8wASb6q9wXu2wDpjlBathAFCa25qgiMTyh5c/go/n7YTJ3daV03zW6zPe4P4wtJVYVE'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://dot601.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://dot601.wordpress.com/" />
+<link rel='shortlink' href='http://wp.me/P7Gz7y-2' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=https%3A%2F%2Fdot601.wordpress.com%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=https%3A%2F%2Fdot601.wordpress.com%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="shikha" />
+<meta property="og:url" content="https://dot601.wordpress.com/" />
+<meta property="og:site_name" content="shikha" />
+<meta property="og:image" content="https://dot601.files.wordpress.com/2016/07/homepage11.jpg?w=1200" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="800" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:image:src" content="https://dot601.files.wordpress.com/2016/07/homepage11.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Visit the post for more." />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="https://s0.wp.com/i/webclip.png" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://dot601.wordpress.com/osd.xml" title="shikha" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="theme-color" content="#ffffff" />
+<meta name="application-name" content="shikha" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Author posts, manage comments, and manage shikha." /><meta name="msapplication-task" content="name=Edit page;action-uri=https://wordpress.com/page/dot601.wordpress.com/2;icon-uri=https://s0.wp.com/i/icons/page.ico" /><meta name="msapplication-task" content="name=Write a post;action-uri=https://wordpress.com/post/dot601.wordpress.com;icon-uri=https://s2.wp.com/i/icons/post.ico" /><meta name="msapplication-task" content="name=Moderate comments;action-uri=https://dot601.wordpress.com/wp-admin/edit-comments.php?comment_status=moderated;icon-uri=https://s0.wp.com/i/icons/comment.ico" /><meta name="msapplication-task" content="name=Upload new media;action-uri=https://dot601.wordpress.com/wp-admin/media-new.php;icon-uri=https://s2.wp.com/i/icons/media.ico" /><meta name="msapplication-task" content="name=Blog stats;action-uri=https://dot601.wordpress.com/wp-admin/index.php?page=stats;icon-uri=https://s1.wp.com/i/icons/stats.ico" /><meta name="title" content="Home | shikha on WordPress.com" />
+<meta name="description" content="This is the home page&#039;s excerpt" />
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+
+<body class="home page page-id-2 page-template page-template-page-templates page-template-front-page page-template-page-templatesfront-page-php logged-in admin-bar no-customize-support mp6 customizer-styles-applied has-footer-navigation has-header-search navigation-default no-sidebar-full highlander-enabled highlander-light">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+		
+				<div class="search-wrapper">
+			<form role="search" method="get" class="search-form" action="https://dot601.wordpress.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>		</div><!-- .search-wrapper -->
+		
+		<div class="header-wrapper clear">
+			<div class="site-branding">
+										<p class="site-title"><a href="https://dot601.wordpress.com/" rel="home">shikha</a></p>
+								</div><!-- .site-branding -->
+
+							<div id="site-navigation" class="header-navigation">
+					<button class="menu-toggle" aria-expanded="false">Menu</button>
+					<div class="navigation-wrapper clear">
+													<nav class="secondary-navigation" role="navigation">
+								<div class="menu-secondary"><ul id="menu-primary" class="clear"><li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-12"><a href="https://dot601.wordpress.com/">Home</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://dot601.wordpress.com/about/">About</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://dot601.wordpress.com/contact/">Contact</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://dot601.wordpress.com/blog/">Blog</a></li>
+</ul></div>							</nav><!-- .secondary-navigation -->
+																			<nav class="primary-navigation" role="navigation">
+								<div class="menu-primary"><ul id="menu-primary-1" class="clear"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-12"><a href="https://dot601.wordpress.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://dot601.wordpress.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://dot601.wordpress.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://dot601.wordpress.com/blog/">Blog</a></li>
+</ul></div>							</nav><!-- .primary-navigation -->
+											</div><!-- .navigation-wrapper -->
+				</div><!-- #site-navigation -->
+			
+							<div id="site-search" class="header-search">
+					<button class="search-toggle" aria-expanded="false"><span class="screen-reader-text">Search</span></button>
+				</div><!-- #site-search -->
+					</div><!-- .header-wrapper -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	
+		
+<div class="hero with-featured-image">
+	
+		<article id="post-2" class="post-2 page type-page status-publish has-post-thumbnail hentry">
+						<div class="entry-content">
+				<p>Welcome to your new site!  You can edit this page by clicking on the Edit link.  For more information about customizing your site check out <a href="http://learn.wordpress.com/">http://learn.wordpress.com/</a></p>
+							</div><!-- .entry-content -->
+			<footer class="entry-footer"><span class="edit-link"><a class="post-edit-link" href="https://wordpress.com/page/dot601.wordpress.com/2">Edit</a></span></footer>		</article><!-- #post-## -->
+
+	</div><!-- .hero -->
+
+
+	
+	
+
+	<div id="quaternary" class="featured-page-area">
+		<div class="featured-page-wrapper clear">
+
+												<div class="featured-page">
+
+						
+						
+							
+<article id="post-3" class="post-3 page type-page status-publish has-post-thumbnail hentry">
+	
+	<a class="post-thumbnail" href="https://dot601.wordpress.com/about/">
+		<img width="330" height="240" src="https://dot601.files.wordpress.com/2016/07/grid1.jpg?w=330&amp;h=240&amp;crop=1" class="attachment-edin-thumbnail-landscape size-edin-thumbnail-landscape wp-post-image" alt="Placeholder Image" />	</a>
+
+
+	<header class="entry-header"><h1 class="entry-title"><a href="https://dot601.wordpress.com/about/" rel="bookmark">About</a></h1></header>
+	<div class="entry-summary">
+		<p>This is just a short excerpt for the about&nbsp;page.</p>
+		<p><a class="more-link" href="https://dot601.wordpress.com/about/" rel="bookmark">
+			Read more <span class="screen-reader-text">About</span>		</a></p>
+	</div><!-- .entry-summary -->
+
+	<footer class="entry-footer"><span class="edit-link"><a class="post-edit-link" href="https://wordpress.com/page/dot601.wordpress.com/3">Edit</a></span></footer></article><!-- #post-## -->
+
+											</div><!-- .featured-page -->
+																<div class="featured-page">
+
+						
+						
+							
+<article id="post-4" class="post-4 page type-page status-publish has-post-thumbnail hentry">
+	
+	<a class="post-thumbnail" href="https://dot601.wordpress.com/contact/">
+		<img width="330" height="240" src="https://dot601.files.wordpress.com/2016/07/full-width1.jpg?w=330&amp;h=240&amp;crop=1" class="attachment-edin-thumbnail-landscape size-edin-thumbnail-landscape wp-post-image" alt="Placeholder Image" />	</a>
+
+
+	<header class="entry-header"><h1 class="entry-title"><a href="https://dot601.wordpress.com/contact/" rel="bookmark">Contact</a></h1></header>
+	<div class="entry-summary">
+		<p>This is just a short excerpt for the contact&nbsp;page.</p>
+		<p><a class="more-link" href="https://dot601.wordpress.com/contact/" rel="bookmark">
+			Read more <span class="screen-reader-text">Contact</span>		</a></p>
+	</div><!-- .entry-summary -->
+
+	<footer class="entry-footer"><span class="edit-link"><a class="post-edit-link" href="https://wordpress.com/page/dot601.wordpress.com/4">Edit</a></span></footer></article><!-- #post-## -->
+
+											</div><!-- .featured-page -->
+																<div class="featured-page">
+
+						
+						
+							
+<article id="post-6" class="post-6 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+	
+	<a class="post-thumbnail" href="https://dot601.wordpress.com/2016/07/01/first-blog-post/">
+		<img width="330" height="240" src="https://dot601.files.wordpress.com/2016/07/alternate-sidebar1.jpg?w=330&amp;h=240&amp;crop=1" class="attachment-edin-thumbnail-landscape size-edin-thumbnail-landscape wp-post-image" alt="Placeholder Image" />	</a>
+
+
+	<header class="entry-header"><h1 class="entry-title"><a href="https://dot601.wordpress.com/2016/07/01/first-blog-post/" rel="bookmark">First blog post</a></h1></header>
+	<div class="entry-summary">
+		<p>This is the excerpt for your very first post.</p>
+		<p><a class="more-link" href="https://dot601.wordpress.com/2016/07/01/first-blog-post/" rel="bookmark">
+			Read more <span class="screen-reader-text">First blog post</span>		</a></p>
+	</div><!-- .entry-summary -->
+
+	<footer class="entry-footer"><span class="edit-link"><a class="post-edit-link" href="https://wordpress.com/post/dot601.wordpress.com/6">Edit</a></span></footer></article><!-- #post-## -->
+
+											</div><!-- .featured-page -->
+							
+		</div><!-- .featured-page-wrapper -->
+	</div><!-- #quaternary -->
+
+
+
+
+	<div id="quinary" class="front-page-widget-area" role="complementary">
+		<div class="front-page-widget-wrapper clear">
+							<div class="front-page-widget">
+					<aside id="text-3" class="widget widget_text"><h2 class="widget-title">Front Page One Text Widget</h2>			<div class="textwidget">This is a text widget. The Text Widget allows you to add text or HTML to your sidebar. You can use a text widget to display text, links, images, HTML, or a combination of these. Edit them in the Widget section of the <a href="https://wordpress.com/customize/">Customizer</a>.</div>
+		</aside>				</div><!-- .front-page-widget -->
+			
+							<div class="front-page-widget">
+					<aside id="text-4" class="widget widget_text"><h2 class="widget-title">Front Page Two Text Widget</h2>			<div class="textwidget">This is a text widget. The Text Widget allows you to add text or HTML to your sidebar. You can use a text widget to display text, links, images, HTML, or a combination of these. Edit them in the Widget section of the <a href="https://wordpress.com/customize/">Customizer</a>.</div>
+		</aside>				</div><!-- .front-page-widget -->
+			
+							<div class="front-page-widget">
+							<aside id="recent-posts-1" class="widget widget_recent_entries">		<h2 class="widget-title">Footer Three Menu Widget</h2>		<ul>
+					<li>
+				<a href="https://dot601.wordpress.com/2016/07/01/first-blog-post/">First blog post</a>
+						</li>
+				</ul>
+		</aside>						</div><!-- .front-page-widget -->
+					</div><!-- .front-page-widget-wrapper -->
+	</div><!-- #quinary -->
+
+
+
+
+
+	</div><!-- #content -->
+
+	
+
+	<div id="tertiary" class="footer-widget-area" role="complementary">
+		<div class="footer-widget-wrapper clear">
+							<div class="footer-widget">
+					<aside id="widget_contact_info-1" class="widget widget_contact_info"><h2 class="widget-title">Our Location</h2><iframe width="600" height="216" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=1-4+Langley+CourtLondon+WC2E+9JYUnited+Kingdom&#038;key=AIzaSyCq4vWNv6eCGe2uvhPRGWQlv80IQp8dwTE" class="contact-map"></iframe><div class="confit-address"><a href="http://maps.google.com/maps?z=16&#038;q=1-4+langley+court+london+wc2e+9jy+united+kingdom" target="_blank">1-4 Langley Court
+<br/>London WC2E 9JY
+<br/>United Kingdom</a></div><div class="confit-phone">+4420 7430 2696</div></aside>				</div><!-- .footer-widget -->
+			
+							<div class="footer-widget">
+					<aside id="text-2" class="widget widget_text"><h2 class="widget-title">Text Widget</h2>			<div class="textwidget">This is a text widget. The Text Widget allows you to add text or HTML to your sidebar. You can use a text widget to display text, links, images, HTML, or a combination of these. Edit them in the Widget section of the <a href="https://wordpress.com/customize/">Customizer</a>.</div>
+		</aside>				</div><!-- .footer-widget -->
+			
+							<div class="footer-widget">
+					<aside id="nav_menu-1" class="widget widget_nav_menu"><h2 class="widget-title">Footer Three Menu Widget</h2><div class="menu-primary-container"><ul id="menu-primary-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-12"><a href="https://dot601.wordpress.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://dot601.wordpress.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://dot601.wordpress.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://dot601.wordpress.com/blog/">Blog</a></li>
+</ul></div></aside>				</div><!-- .footer-widget -->
+					</div><!-- .footer-widget-wrapper -->
+	</div><!-- #tertiary -->
+
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="footer-wrapper clear">
+			<div class="site-info">
+				<a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com.</a>
+				<span class="sep"> | </span>
+				<a href="https://wordpress.com/themes/edin/" title="Learn more about this theme">The Edin Theme</a>.			</div><!-- .site-info -->
+							<nav class="footer-navigation" role="navigation">
+					<div class="menu-social-container"><ul id="menu-social" class="clear"><li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="http://facebook.com">Facebook</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="http://twitter.com">Twitter</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="http://pinterest.com">Pinterest</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="http://linkedin.com">LinkedIn</a></li>
+</ul></div>				</nav><!-- .footer-navigation -->
+					</div><!-- .footer-wrapper -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- wpcom_wp_footer -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		jQuery(document).ready( function($) {
+			function doFollowingHover() {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				$('#wp-admin-bar-follow > a').bind( 'mouseover.unfollow', function() {
+
+					$(this).html( "Unfollow" ).parent( 'li' ).addClass( 'unfollow' );
+				});
+				$('#wp-admin-bar-follow > a').bind( 'mouseout.unfollow', function() {
+					$(this).html( "Following" ).parent( 'li' ).removeClass( 'unfollow' );
+				});
+			}
+							doFollowingHover();
+			
+			$('#wp-admin-bar-follow > a').click( function( e ) {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				e.preventDefault();
+
+				var link = $( this ), li = $( '#wp-admin-bar-follow' ), timeout = 0;
+
+				if ( li.hasClass( 'subscribed' ) ) {
+					li.removeClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Follow" );
+
+					$('body').append( $( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble' );
+
+					var action = 'ab_unsubscribe_from_blog';
+				} else {
+					li.addClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Following" );
+
+						var left = 131 - link.width();
+						li.append( $( 'div.wpcom-bubble' ).css( { left: '-' + left + 'px' } ) );
+						$( 'div.bubble-txt', 'div.wpcom-bubble' ).html( "New posts from this blog will now appear in <a target=\"_blank\" href=\"http:\/\/wordpress.com\/\">your reader<\/a>. You can manage email alerts from your <a target=\"_blank\" href=\"http:\/\/wordpress.com\/following\/edit\/\">subscriptions page<\/a>." );
+
+						$( 'div.wpcom-bubble.action-bubble' ).addClass( 'fadein' );
+
+						setTimeout( function() {
+							$('body').on( 'click.bubble touchstart.bubble', function(e) {
+								if ( !$(e.target).hasClass('wpcom-bubble') && !$(e.target).parents( 'div.wpcom-bubble' ).length )
+									hideBubble();
+							});
+							setTimeout( hideBubble, 15000 );
+						}, 500 );
+
+					var action = 'ab_subscribe_to_blog';
+					$('#wp-admin-bar-follow > a').bind( 'mouseout.shift', function() {
+						doFollowingHover();
+						$(this).unbind( '.shift' );
+					});
+				}
+
+				var nonce = link.attr( 'href' ).split( '_wpnonce=' );
+				nonce = nonce[1];
+
+				$.post( "https:\/\/dot601.wordpress.com\/wp-admin\/admin-ajax.php", {
+					'action': action,
+					'_wpnonce': nonce,
+					'source': 'admin_bar',
+					'blog_id': 113579136				});
+			});
+		});
+	/* ]]> */
+	</script>
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201626y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":"98f955240e09ff5e0f148452332dcec7"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<div id="report-form-window" style="display:none;"></div><link rel='stylesheet' id='all-css-0' href='https://s2.wp.com/wp-content/mu-plugins/widgets/contact-info/contact-info-map.css?m=1466730838h' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/s1.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/s1.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screen_reader_text = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screen_reader_text = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetpackEmojiSettings = {"base_url":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/emoji\/twemoji\/"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpNotesArgs = {"cacheBuster":"20160329","iframeUrl":"https:\/\/widgets.wp.com\/notificationsbeta\/","iframeAppend":"2","iframeScroll":"no","wide":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcom_tos_report_form = {"ajaxurl":"\/wp-admin\/admin-ajax.php","isLoggedoutUser":"","post_ID":"2","current_url":"https:\/\/dot601.wordpress.com","report_this_content":"Report this content"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"113579136","siteName":"shikha","siteURL":"http:\/\/dot601.wordpress.com","icon":"<img alt='' src='https:\/\/s1.wp.com\/i\/void.gif' class='avatar avatar-36' height='36' width='36' \/>","canManageOptions":"1","canCustomizeSite":"1","isFollowing":"1","themeSlug":"pub\/edin","themeURL":"https:\/\/wordpress.com\/themes\/edin\/","xhrURL":"https:\/\/dot601.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"21d5d8cc7f","isSingular":"1","isFolded":"","customizeLink":"https:\/\/dot601.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fdot601.wordpress.com%2F","postID":"2","shortlink":"http:\/\/wp.me\/P7Gz7y-2","canEditPost":"1","editLink":"https:\/\/wordpress.com\/page\/dot601.wordpress.com\/2","i18n":{"view":"View Site","follow":"Follow","following":"Following","edit":"Edit","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Edin","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage Sites I Follow","viewReader":"View Site in the Reader"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyVku1WwyAMhm9Ihvs46h+P10IhW9OWgBDaXb5wdLXdajf/EJo8b5qQyMEL7YiBWDZRGuhRgz9vmvgkcwhJd8lALDGuUbeVO4+XC3TR2yR8l05IUXbYZtFnggS1ItNBWMqojEUSlQqbbFeyjVyOa2fFr+5vTeZsdonvSppSUiXjgB7+I5o5roVcg82YT5UEg1R4Uj2eFKO7aWcBjqCCrh8BW/S5BGrF0ekUxRFv3n5BVexKr2Bdg5KHmb3LN8Be6VY8Rs+o6eQTGQhRuwDT0U+JSpUdI1hajRy2KbLS9dowyTH8nKLM0ZHod3f5cbfWYXZRBPAucJ5JsNffDy2zVZEhlF+5HkLA0vnoW8ugy4KVDOMt0x/2fXt4eX3eH962u+YLnrJusw=='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>		<script>
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "7518284"
+			});
+			(function() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+				s.async = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<p class="robots-nocontent"><img src="https://sb.scorecardresearch.com/p?c1=2&c2=7518284&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="display:none;" width="1" height="1" /></p>
+		</noscript><script src="//stats.wp.com/w.js?52" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['identifyUser', 107177600, 'shikhakumari']);
+_tkq.push(['storeContext', {'blog_id':'113579136','blog_tz':'0','user_lang':'en','blog_lang':'en'}]);
+_stq.push(['view', {'blog':'113579136','v':'wpcom','tz':'0','user':'1','user_id':'107177600','post':'2','subd':'dot601'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1zNDZ8S252Wis9XUQyb3YrcUVIU2R0VH5TdXIyfFgyfjVBN0lIeEpROGxdTnl0NVVYdlZWLU5pb2Nibld0QXA9Z002d0podEouaGR6Vjlmc2lteFM5d3RKZGZxJkZzflA/LmsraF8zaHhuNm01aFlVMWl6US9SMGkrTHZaNmRXOS5bOCZKUm5fSnwlOTA2Qk5lLXE3RSx3Um98M2Vtblh0OXUuelEudEdRL1l2TEkwSTdBSlU0VS9Wfjl4T1tXPXZqMEFkYWgyT3owTjlQVEI9al1lbHl+ZHc4fmduVDA5NlB3amtObmJ1UFRtJllhWXNLMXZoX0JWei5GT0V8'}]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+		<div id="wpadminbar" class="nojq nojs ltr">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar" tabindex="0">
+						<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+			
+		<li id="wp-admin-bar-blog" class="menupop my-sites"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/stats/dot601.wordpress.com">My Site</a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-blog-default" class="ab-submenu">
+			
+		<li id="wp-admin-bar-blog-info" class="current-site">		<div class="ab-item ab-empty-item" ><div class="ab-site-icon"></div><span class="ab-site-title">shikha</span><span class="ab-site-description">dot601.wordpress.com</span></div>		</li>
+		<li id="wp-admin-bar-new-site"><a class="ab-item"  href="https://wordpress.com/start?ref=admin-bar-logged-in">+ Add New WordPress</a>		</li>
+		<li id="wp-admin-bar-blog-stats" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/stats/dot601.wordpress.com">Stats <img style="width: 95px; margin: 0; float: right;" src="https://dot601.wordpress.com/wp-includes/charts/admin-bar-hours-scale-2x.php?masterbar=1" alt="Stats" title="Showing site views per hour for the last 48 hours. Click for full Site Stats." /></a>		</li>
+		<li id="wp-admin-bar-plan" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/plans/dot601.wordpress.com" class="ab-item primary mb-icon" id="wp-admin-bar-plan">Plan</a><a href="https://wordpress.com/plans/dot601.wordpress.com" class="secondary" id="wp-admin-bar-plan-badge">Free</a></div>		</li>		</ul>
+			<ul id="wp-admin-bar-publish" class="ab-submenu">
+			
+		<li id="wp-admin-bar-publish-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Publish</div>		</li>
+		<li id="wp-admin-bar-new-post" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/posts/dot601.wordpress.com" class="ab-item primary mb-icon" id="wp-admin-bar-edit-post">Blog Posts</a><a href="https://wordpress.com/post/dot601.wordpress.com" class="secondary" id="wp-admin-bar-new-post">Add</a></div>		</li>
+		<li id="wp-admin-bar-new-page" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/pages/dot601.wordpress.com" class="ab-item primary mb-icon" id="wp-admin-bar-edit-page">Pages</a><a href="https://wordpress.com/page/dot601.wordpress.com" class="secondary" id="wp-admin-bar-new-page">Add</a></div>		</li>
+		<li id="wp-admin-bar-new-jetpack-testimonial" class="mb-icon"><a class="ab-item"  href="https://dot601.wordpress.com/wp-admin/edit.php?post_type=jetpack-testimonial">Testimonials</a>		</li>		</ul>
+			<ul id="wp-admin-bar-look-and-feel" class="ab-submenu">
+			
+		<li id="wp-admin-bar-look-and-feel-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Personalize</div>		</li>
+		<li id="wp-admin-bar-themes" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/design/dot601.wordpress.com" class="ab-item primary mb-icon" id="wp-admin-bar-themes">Themes</a><a href="https://dot601.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fdot601.wordpress.com%2F" class="secondary" id="wp-admin-bar-cmz">Customize</a></div>		</li>
+		<li id="wp-admin-bar-menus" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/menus/dot601.wordpress.com">Menus</a>		</li>		</ul>
+			<ul id="wp-admin-bar-configuration" class="ab-submenu">
+			
+		<li id="wp-admin-bar-configuration-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Configure</div>		</li>
+		<li id="wp-admin-bar-sharing" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/sharing/dot601.wordpress.com">Sharing</a>		</li>
+		<li id="wp-admin-bar-users-toolbar" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/people/team/dot601.wordpress.com" class="ab-item primary mb-icon" id="wp-admin-bar-people">People</a><a href="https://dot601.wordpress.com/wp-admin/users.php?page=wpcom-invite-users" class="secondary" id="wp-admin-bar-people-add">Add</a></div>		</li>
+		<li id="wp-admin-bar-domains" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/domains/dot601.wordpress.com" class="ab-item primary mb-icon" id="wp-admin-bar-domains">Domains</a><a href="https://wordpress.com/domains/add/dot601.wordpress.com" class="secondary" id="wp-admin-bar-domains-add">Add</a></div>		</li>
+		<li id="wp-admin-bar-blog-settings" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/settings/general/dot601.wordpress.com">Settings</a>		</li>		</ul>
+	</div>		</li>
+		<li id="wp-admin-bar-jumptotop-button-menu"><a class="ab-item"  href="#"><div id="jumptotop"><span class="noticon noticon-top"></span></div></a>		</li>
+		<li id="wp-admin-bar-newdash" class="menupop"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/">Reader</a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-newdash-default" class="ab-submenu">
+			
+		<li id="wp-admin-bar-streams-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Streams</div>		</li>
+		<li id="wp-admin-bar-following" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/" class="ab-item primary mb-icon" id="wp-admin-bar-followed-sites">Followed Sites</a><a href="https://wordpress.com/following/edit" class="secondary">Manage</a></div>		</li>
+		<li id="wp-admin-bar-discover-discover" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/discover">Discover</a>		</li>
+		<li id="wp-admin-bar-discover-recommended-blogs" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/recommendations">Recommendations</a>		</li>
+		<li id="wp-admin-bar-my-activity-my-likes" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/activities/likes">My Likes</a>		</li>		</ul>
+	</div>		</li>		</ul>
+			<ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+			
+		<li id="wp-admin-bar-notes" class="menupop">		<div class="ab-item ab-empty-item" ><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read"></span><span class="noticon noticon-bell"></span><span class="ab-text">Notifications</span></div><div id="wpnt-notes-panel2" style="display:none" lang="en" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header"></span><span class="wpnt-notes-panel-link"></span></div></div>		</li>
+		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/me/"><img alt='' src='https://0.gravatar.com/avatar/98f955240e09ff5e0f148452332dcec7?s=32&#038;d=mm&#038;r=G' class='avatar avatar-32' height='32' width='32' /><span class="ab-text">Me</span></a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-user-actions" class="ab-submenu">
+			
+		<li id="wp-admin-bar-user-info" class="user-info user-info-item">		<div class="ab-item ab-empty-item" tabindex="-1"><img alt='' src='https://0.gravatar.com/avatar/98f955240e09ff5e0f148452332dcec7?s=128&#038;d=mm&#038;r=G' class='avatar avatar-128' height='128' width='128' /><span class="display-name">shikhakumari</span><a class="username" href="http://gravatar.com/shikhakumari">@shikhakumari</a><form action="https://dot601.wordpress.com/wp-login.php?action=logout&amp;redirect_to=https%3A%2F%2Fwordpress.com%2F%3Fapppromo&amp;_wpnonce=ec01486e93" method="post"><button class="ab-sign-out" type="submit">Sign Out</button></form></div>		</li>
+		<li id="wp-admin-bar-profile-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Profile</div>		</li>
+		<li id="wp-admin-bar-my-profile" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me">My Profile</a>		</li>
+		<li id="wp-admin-bar-account-settings" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/account">Account Settings</a>		</li>
+		<li id="wp-admin-bar-billing" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/billing">Billing History</a>		</li>
+		<li id="wp-admin-bar-security" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/security">Security</a>		</li>
+		<li id="wp-admin-bar-notifications" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/notifications">Notifications</a>		</li>
+		<li id="wp-admin-bar-special-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Special</div>		</li>
+		<li id="wp-admin-bar-get-apps" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/get-apps">Get Apps</a>		</li>
+		<li id="wp-admin-bar-next-steps" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/next">Next Steps</a>		</li>
+		<li id="wp-admin-bar-help" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/help">Help</a>		</li>		</ul>
+	</div>		</li>
+		<li id="wp-admin-bar-ab-new-post"><a class="ab-item"  href="https://wordpress.com/post/dot601.wordpress.com"></a>		</li>		</ul>
+				</div>
+							<a class="screen-reader-shortcut" href="https://dot601.wordpress.com/wp-login.php?action=logout&#038;_wpnonce=ec01486e93">Log Out</a>
+					</div>
+
+	
+<script type="text/javascript">
+/* <![CDATA[ */
+var clickDebugLink;
+
+jQuery(document).ready( function($) {
+	var single = false, w = 1000,
+		supe = false;
+
+	$(document.body).load(function(){ $('#wpadminbar img.grav-hashed').removeClass('grav-hashed'); }); // hack to hide the gravatar hovercard
+
+	if ( single && supe )
+		w = 1385;
+	else if ( supe )
+		w = 1200;
+
+	// debug bar extra
+	clickDebugLink = function( parent_id, obj ) {
+
+		$('#'+parent_id).children('div').hide();
+
+		document.getElementById( obj.href.substr( obj.href.indexOf( '#' ) + 1 ) ).style.display = 'block';
+		$( obj.href.substr( obj.href.indexOf( '#' ) ) ).show()
+
+		$(obj).parent().addClass('current').siblings('li').removeClass('current');
+
+		return false;
+	};
+
+	$( '#wpadminbar #wp-admin-bar-shortlink' ).click( function() {
+		$( '#adminbar-shortlink-input' ).select();
+	});
+
+	// skip tap-to-hover on site switcher for mobile
+	if ( 'ontouchstart' in window ) {
+		$('#wp-admin-bar-switch-site').on( 'touchstart', function( event ) {
+			if ( $( window ).width() > 782 ) {
+				return;
+			}
+			event.stopPropagation();
+			$( event.target ).first( 'a' ).click();
+		});
+	}
+
+});
+/* ]]> */
+</script>
+	<div class="wpcom-bubble action-bubble">
+		<div class="bubble-txt"></div>
+	</div>
+	<script type="text/javascript">function hideBubble() { jQuery('body').append( jQuery( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble touchstart.bubble' ); jQuery(document).off( 'scroll.bubble' ); };</script>
+		<script type="text/javascript">
+	jQuery( '#wp-admin-bar-jumptotop-button-menu a' ).click( function( e ) {
+		e.preventDefault();
+		jQuery( 'html, body' ).animate( { scrollTop: 0 }, 'fast' );
+	} );
+	function hideShowTbJumpToTop() {
+		var total_width = 0;
+		// Calculate total width taken by items minus our button to see if it'll
+		// overlap with other toolbar menus.
+		jQuery( '#wp-admin-bar-root-default > li' ).each( function() {
+			var self = jQuery( this );
+			if ( 'wp-admin-bar-jumptotop-button-menu' != self.attr( 'id' ) )
+				total_width += self.width();
+		});
+		if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() >= 350 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) < 0 ) {
+			if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 )
+			   return;
+			jQuery( '#jumptotop' ).animate( { 'top': 0 }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() < 1 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) >= 0 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		}
+	}
+	// handle on page load if auto scrolling to a position
+	hideShowTbJumpToTop();
+	// bind to scrolll event
+	var jumpToTopTimer = null;
+	jQuery( window ).scroll( function() {
+		clearTimeout( jumpToTopTimer );
+		jumpToTopTimer = setTimeout( jumpToTopRefresh, 150 );
+	} );
+	var jumpToTopRefresh = function() {
+		hideShowTbJumpToTop();
+	};
+	</script>
+	<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
